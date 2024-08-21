@@ -2,10 +2,6 @@
 
 ![Header](./resources/header.png)
 
-I'm a passionate developer focused on building robust and efficient desktop applications. I love exploring new
-technologies
-and bringing ideas to life through code.
-
 [![LynxHub Discord](http://invidget.switchblade.xyz/e8rBzhtcnK)](https://discord.gg/e8rBzhtcnK)
 
 </div>
@@ -42,6 +38,18 @@ and bringing ideas to life through code.
 [![LynxHub Module Offline Container](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Module-Offline-Container&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub-Module-Offline-Container)
 [![LynxHub Modules](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Modules&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub-Modules)
 [![LynxHub Module Guide](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Module-Guide&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub-Module-Guide)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Gmail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg)](mailto:kindofbrazy@gmail.com)
+[![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)](https://discord.gg/e8rBzhtcnK)
+[![Steam](https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam1.svg)](https://steamcommunity.com/id/Kindabrazy)
+[![Patreon](https://ziadoua.github.io/m3-Markdown-Badges/badges/Patreon/patreon1.svg)](https://www.patreon.com/LynxHub)
+
 
 </div>
 
