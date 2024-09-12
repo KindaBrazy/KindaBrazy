@@ -2,11 +2,8 @@
 
 ![Header](./resources/header.png)
 
-[![LynxHub Discord](http://invidget.switchblade.xyz/e8rBzhtcnK)](https://discord.gg/e8rBzhtcnK)
-
 </div>
 
----
 
 <div>
   <p align="center">
@@ -50,6 +47,7 @@
 [![Steam](https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam1.svg)](https://steamcommunity.com/id/Kindabrazy)
 [![Patreon](https://ziadoua.github.io/m3-Markdown-Badges/badges/Patreon/patreon1.svg)](https://www.patreon.com/LynxHub)
 
+[![LynxHub Discord](http://invidget.switchblade.xyz/e8rBzhtcnK)](https://discord.gg/e8rBzhtcnK)
 
 </div>
 
