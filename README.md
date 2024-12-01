@@ -43,8 +43,9 @@
 
 #### Extensions
 
-[![LynxHub Modules](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Extensions&theme=github_dark&hide_border=true&title_color=00A9FF&bg_color=282828&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub-Extensions)
-[![LynxHub Module Guide](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Extension-Guide&theme=github_dark&hide_border=true&title_color=00A9FF&bg_color=282828&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub-Extension-Guide)
+[![LynxHub Extension](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Extensions&theme=github_dark&hide_border=true&title_color=00A9FF&bg_color=282828&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub-Extensions)
+[![LynxHub Extension Guide](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Extension-Guide&theme=github_dark&hide_border=true&title_color=00A9FF&bg_color=282828&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub-Extension-Guide)
+[![LynxHub Extension Python Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Python-Toolkit&theme=github_dark&hide_border=true&title_color=00A9FF&bg_color=282828&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub-Extension-Guide)
 
 </div>
 
