@@ -7,8 +7,8 @@
 
 <div>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KindaBrazy&hide=prs,contribs&show=discussions_started&show_icons=true&theme=midnight-purple&hide_border=true&title_color=AA00FF" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KindaBrazy&theme=midnight-purple&layout=compact&hide_border=true&title_color=AA00FF" alt="aaronedev's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=KindaBrazy&hide=prs,contribs&show=discussions_started&show_icons=true&theme=midnight-purple&hide_border=true&title_color=AA00FF&border_radius=10" alt="KindaBrazy Stats" height="177">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KindaBrazy&theme=midnight-purple&layout=compact&hide_border=true&title_color=AA00FF&border_radius=10" alt="KindaBrazy Stats" height="177">
   </p>
 </div>
 
@@ -33,19 +33,19 @@
 
 #### LynxHub
 
-[![LynxHub](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub&theme=github_dark&hide_border=true&title_color=AA00FF&bg_color=000000&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub)
-
-#### Modules
-
-[![LynxHub Module Offline Container](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Module-Offline-Container&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub-Module-Offline-Container)
-[![LynxHub Modules](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Modules&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub-Modules)
-[![LynxHub Module Guide](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Module-Guide&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub-Module-Guide)
+[![LynxHub](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub&theme=github_dark&hide_border=true&title_color=00A9FF&bg_color=404040&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/LynxHub)
 
 #### Extensions
 
-[![LynxHub Extension](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Extensions&theme=github_dark&hide_border=true&title_color=00A9FF&bg_color=282828&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub-Extensions)
-[![LynxHub Extension Guide](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Extension-Guide&theme=github_dark&hide_border=true&title_color=00A9FF&bg_color=282828&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub-Extension-Guide)
-[![LynxHub Extension Python Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Python-Toolkit&theme=github_dark&hide_border=true&title_color=00A9FF&bg_color=282828&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub-Python-Toolkit)
+[![LynxHub Extension](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Extensions&theme=github_dark&hide_border=true&title_color=00A9FF&bg_color=282828&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/LynxHub-Extensions)
+[![LynxHub Extension Guide](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Extension-Guide&theme=github_dark&hide_border=true&title_color=00A9FF&bg_color=282828&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/LynxHub-Extension-Guide)
+[![LynxHub Extension Python Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Python-Toolkit&theme=github_dark&hide_border=true&title_color=00A9FF&bg_color=282828&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/LynxHub-Python-Toolkit)
+
+#### Modules
+
+[![LynxHub Module Offline Container](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Module-Offline-Container&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/LynxHub-Module-Offline-Container)
+[![LynxHub Modules](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Modules&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/LynxHub-Modules)
+[![LynxHub Module Guide](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Module-Guide&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/LynxHub-Module-Guide)
 
 </div>
 
