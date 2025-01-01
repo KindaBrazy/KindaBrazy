@@ -7,8 +7,8 @@
 
 <div>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KindaBrazy&hide=prs,contribs&show=discussions_started&show_icons=true&theme=midnight-purple&hide_border=true&title_color=AA00FF" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KindaBrazy&theme=midnight-purple&layout=compact&hide_border=true&title_color=AA00FF" alt="aaronedev's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=KindaBrazy&hide=prs,contribs&show=discussions_started&show_icons=true&theme=midnight-purple&hide_border=true&title_color=AA00FF&border_radius=10" alt="KindaBrazy Stats" height="177">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KindaBrazy&theme=midnight-purple&layout=compact&hide_border=true&title_color=AA00FF&border_radius=10" alt="KindaBrazy Stats" height="177">
   </p>
 </div>
 
