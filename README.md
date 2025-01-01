@@ -33,7 +33,7 @@
 
 #### LynxHub
 
-[![LynxHub](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub&theme=github_dark&hide_border=true&title_color=AA00FF&bg_color=000000&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub)
+[![LynxHub](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub&theme=github_dark&hide_border=true&title_color=AA00FF&bg_color=101010&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub)
 
 #### Modules
 
