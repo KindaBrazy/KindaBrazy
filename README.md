@@ -7,8 +7,7 @@
 
 <div>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KindaBrazy&hide=prs,contribs&show=discussions_started&show_icons=true&theme=midnight-purple&hide_border=true&title_color=AA00FF&border_radius=10" alt="KindaBrazy Stats" height="177">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KindaBrazy&theme=midnight-purple&layout=compact&hide_border=true&title_color=AA00FF&border_radius=10" alt="KindaBrazy Stats" height="177">
+    <img src="https://github-readme-stats.vercel.app/api?username=KindaBrazy&hide=issues,prs&rank_icon=github&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=true&title_color=AA00FF" alt="aaronedev's Stats" height="165">
   </p>
 </div>
 
@@ -17,12 +16,15 @@
 
 ### Technologies & Tools
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
 </div>
 
 ---
