@@ -7,7 +7,7 @@
 
 <div>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KindaBrazy&hide=issues,prs&rank_icon=github&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=true&title_color=AA00FF" alt="aaronedev's Stats" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=KindaBrazy&hide=issues,prs&rank_icon=github&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=true&title_color=898277&icon_color=898277" alt="kindabrazy's Stats" height="165">
   </p>
 </div>
 
