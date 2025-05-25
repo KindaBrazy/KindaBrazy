@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./resources/header_image.png)
+![Header](./resources/KindaBrazy.png)
 
 </div>
 
