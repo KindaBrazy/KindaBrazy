@@ -56,8 +56,8 @@
 
 ### Other Repositories
 
-[![Lynx Hardware CLI](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHardwareCLI&theme=github_dark&hide_border=true&title_color=AA00FF&bg_color=101010&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/LynxHardwareCLI)
-[![Lynx Hardware Monitor](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=Lynx-HWMonitor&theme=github_dark&hide_border=true&title_color=AA00FF&bg_color=101010&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/Lynx-HWMonitor)
+[![Lynx Hardware CLI](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHardwareCLI&theme=github_dark&hide_border=true&title_color=AA00FF&bg_color=000000&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/LynxHardwareCLI)
+[![Lynx Hardware Monitor](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=Lynx-HWMonitor&theme=github_dark&hide_border=true&title_color=AA00FF&bg_color=000000&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/Lynx-HWMonitor)
 
 
 </div>
