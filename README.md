@@ -31,9 +31,7 @@
 
 <div align="center">
 
-### Repositories
-
-#### LynxHub
+### LynxHub Repositories
 
 [![LynxHub](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub&theme=github_dark&hide_border=true&title_color=00A9FF&bg_color=404040&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/LynxHub)
 
@@ -42,12 +40,25 @@
 [![LynxHub Extension](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Extensions&theme=github_dark&hide_border=true&title_color=00A9FF&bg_color=282828&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/LynxHub-Extensions)
 [![LynxHub Extension Guide](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Extension-Guide&theme=github_dark&hide_border=true&title_color=00A9FF&bg_color=282828&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/LynxHub-Extension-Guide)
 [![LynxHub Extension Python Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Python-Toolkit&theme=github_dark&hide_border=true&title_color=00A9FF&bg_color=282828&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/LynxHub-Python-Toolkit)
+[![LynxHub Extension Hardware Monitor](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Hardware-Monitor&theme=github_dark&hide_border=true&title_color=00A9FF&bg_color=282828&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/LynxHub-Hardware-Monitor)
 
 #### Modules
 
 [![LynxHub Module Offline Container](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Module-Offline-Container&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/LynxHub-Module-Offline-Container)
 [![LynxHub Modules](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Modules&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/LynxHub-Modules)
 [![LynxHub Module Guide](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Module-Guide&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/LynxHub-Module-Guide)
+
+</div>
+
+---
+
+<div align="center">
+
+### Other Repositories
+
+[![Lynx Hardware CLI](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHardwareCLI&theme=github_dark&hide_border=true&title_color=AA00FF&bg_color=101010&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/LynxHardwareCLI)
+[![Lynx Hardware Monitor](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=Lynx-HWMonitor&theme=github_dark&hide_border=true&title_color=AA00FF&bg_color=101010&text_color=ffffff&border_radius=10)](https://github.com/KindaBrazy/Lynx-HWMonitor)
+
 
 </div>
 
